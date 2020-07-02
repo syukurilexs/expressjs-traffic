@@ -1,0 +1,25 @@
+{
+  "name": "@syukurilexs/expressjs-traffic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/syukurilexs/expressjs-traffic.git"
+  },
+  "keywords": [
+    "npm",
+    "expressjs",
+    "api-traffic",
+    "syukurilexs"
+  ],
+  "author": "Syukur Bin Md Kassim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syukurilexs/expressjs-traffic/issues"
+  },
+  "homepage": "https://github.com/syukurilexs/expressjs-traffic#readme"
+}
